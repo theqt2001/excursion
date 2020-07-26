@@ -1,0 +1,16 @@
+html, body{
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+h1{
+    color: seashell;
+}
+span{
+    color: seagreen;
+    text-decoration: underline;
+}
+footer{
+    text-align: right;
+    color: slategray;
+}
